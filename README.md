@@ -33,6 +33,10 @@
 3. Відкрити Console (F12)
 4. Натиснути кнопку "Запустити замовлення"
 
+### Demo video
+
+https://docs.google.com/videos/d/1Wkyus9coeuQ3ZR8mGIWCFtzbeC_FNOYVvxU-5NS8Zao/edit?usp=sharing
+
 ### Автор
 
 Максим Устич
